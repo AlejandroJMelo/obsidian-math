@@ -1,0 +1,1 @@
+is one of the four arithmetic operations along with addition, multiplication and division. Subtraction is an operation that represents removal of objects from a collection. For example, in the adjacent picture, there are 5 − 2 peaches—meaning 5 peaches with 2 taken away, resulting in a total of 3 peaches. Therefore, the difference of 5 and 2 is 3; that is, 5 − 2 = 3.
